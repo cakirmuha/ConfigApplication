@@ -1,7 +1,5 @@
 
 
-
-
 # ConfigApplication
 ConfigApplication project is a library for dynamic configuration records.The purpose of the project is to have AppKeys stored in files such as web.config and app.config accessible via a common and dynamic structure and to make updates without requiring deployment or restart/recycle.
 
